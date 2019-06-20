@@ -1,5 +1,5 @@
 # SA-Crime-Data
-This project involves the merging of various data files, data correction, data visualization, data analysis using linear regression and choropleth mapping.
+This project involves the merging of various data files, data correction, data visualization, data analysis using linear regression and choropleth mapping. Note: Data files are too large to upload.
 
 In the accompanying jupyter notebook, Crime Statistics for the whole of South Africa (broken down by crime type, year, province and Police Station is imported into the notebook. This data is merged with a csv file of Police Station coordinates (based on Police Station name). 
 Errors related to naming of the Crime Type (eg: use of both CONTACT CRIMES and CONTACT CRIME in the data file) are then corrected. 
